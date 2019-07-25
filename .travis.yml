@@ -6,4 +6,26 @@ python:
   - "nightly"
 
 script: 
-  - python prueba.py
+  - python test.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
