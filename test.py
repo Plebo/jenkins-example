@@ -8,7 +8,7 @@ class TestSum(unittest.TestCase):
         """
         Test suma de lista de enteros
         """
-        data = [1, 2, 2]
+        data = [1, 2, 3]
         result = sum(data)
         self.assertEqual(result, 6)
 
